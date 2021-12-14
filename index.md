@@ -1,6 +1,5 @@
-# Kodish Play 
-![This is an image](https://raw.githubusercontent.com/kodishmediacenter/kodishweb/gh-pages/kodish.png)
-<img src="https://raw.githubusercontent.com/kodishmediacenter/kodishweb/gh-pages/kodish.png">
+
+<img src="https://raw.githubusercontent.com/kodishmediacenter/kodishweb/gh-pages/kodish.png" height="256" width="256"> # Kodish Play 
 
 
 
