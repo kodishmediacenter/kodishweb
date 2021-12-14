@@ -1,5 +1,5 @@
 # Kodish Play 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://raw.githubusercontent.com/kodishmediacenter/kodishweb/gh-pages/kodish.png)
 
 
 
